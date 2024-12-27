@@ -1,0 +1,110 @@
+[
+    {
+        "transport": "Автобус",
+        "number": 12,
+        "dateOfStart": "15.05.2021",
+        "startBusStation": "ТЦ «Кристалл»",
+        "endBusStation": "Улица Мира",
+        "timeOfRoute": 75,
+        "description": "В наличии 18 автобусов"
+    },
+    {
+        "transport": "Маршрутка",
+        "number": 27,
+        "dateOfStart": "22.08.2022",
+        "startBusStation": "Улица 30 лет Победы",
+        "endBusStation": "Площадь 400-летия Тюмени",
+        "timeOfRoute": 60,
+        "description": "В наличии 10 маршруток"
+    },
+    {
+        "transport": "Маршрутный автобус",
+        "number": 33,
+        "dateOfStart": "03.11.2020",
+        "startBusStation": "Тюменская область",
+        "endBusStation": "Улица Ленина",
+        "timeOfRoute": 90,
+        "description": "В наличии 15 маршрутных автобусов"
+    },
+    {
+        "transport": "Автобус",
+        "number": 45,
+        "dateOfStart": "09.02.2023",
+        "startBusStation": "Станция Тюмень-1",
+        "endBusStation": "Улица Фрунзе",
+        "timeOfRoute": 120,
+        "description": "В наличии 12 автобусов"
+    },
+    {
+        "transport": "Маршрутка",
+        "number": 56,
+        "dateOfStart": "17.07.2024",
+        "startBusStation": "Улица Грибоедова",
+        "endBusStation": "Улица Червишевский тракт",
+        "timeOfRoute": 49,
+        "description": "В наличии 8 маршруток"
+    },
+    {
+        "transport": "Маршрутный автобус",
+        "number": 68,
+        "dateOfStart": "28.01.2019",
+        "startBusStation": "Улица Котовского",
+        "endBusStation": "Автовокзал Тюмень",
+        "timeOfRoute": 110,
+        "description": "В наличии 20 маршрутных автобусов"
+    },
+    {
+        "transport": "Автобус",
+        "number": 74,
+        "dateOfStart": "05.06.2021",
+        "startBusStation": "Тюменский государственный университет",
+        "endBusStation": "Улица Свердлова",
+        "timeOfRoute": 85,
+        "description": "В наличии 14 автобусов"
+    },
+    {
+        "transport": "Маршрутка",
+        "number": 82,
+        "dateOfStart": "12.10.2022",
+        "startBusStation": "Улица Широтная",
+        "endBusStation": "Улица Пермякова",
+        "timeOfRoute": 63,
+        "description": "В наличии 9 маршруток"
+    },
+    {
+        "transport": "Маршрутный автобус",
+        "number": 91,
+        "dateOfStart": "30.03.2023",
+        "startBusStation": "ТЦ «Галерея»",
+        "endBusStation": "Улица Блюхера",
+        "timeOfRoute": 99,
+        "description": "В наличии 11 маршрутных автобусов"
+    },
+    {
+        "transport": "Автобус",
+        "number": 104,
+        "dateOfStart": "25.04.2020",
+        "startBusStation": "Улица Пушкина",
+        "endBusStation": "Улица Куйбышева",
+        "timeOfRoute": 130,
+        "description": "В наличии 7 автобусов"
+    },
+    {
+        "transport": "Маршрутка",
+        "number": 118,
+        "dateOfStart": "14.09.2019",
+        "startBusStation": "Село Боровое",
+        "endBusStation": "Улица Льва Толстого",
+        "timeOfRoute": 52,
+        "description": "В наличии 6 маршруток"
+    },
+    {
+        "transport": "Маршрутный автобус",
+        "number": 125,
+        "dateOfStart": "19.12.2024",
+        "startBusStation": "Автовокзал Тюмень",
+        "endBusStation": "Улица Холодильная",
+        "timeOfRoute": 70,
+        "description": "В наличии 13 маршрутных автобусов"
+    }
+]
